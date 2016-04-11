@@ -1,2 +1,2 @@
-# winnied.github.io
-Winnie's GitPage
+#Winnie Dinh
+Personal webpage, in progress, much like the designer.
